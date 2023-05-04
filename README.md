@@ -3,7 +3,9 @@
 # Síndrome Respiratória Aguda Grave (SRAG) e Modelo de Machine Learning para Prever Cura e Óbitos
 
 A Síndrome Respiratória Aguda Grave (SRAG) é uma doença respiratória causada pelo coronavírus. A doença se espalhou rapidamente pelo mundo em 2020 e 2021, causando uma pandemia global. A SRAG é uma doença grave que pode levar a complicações respiratórias e, em alguns casos, até a morte.
-![](https://dive.sc.gov.br/images/doencas%20e%20agravos/Doen%C3%A7as%20Definitivas/Banners-SRAG-736x378px.png))
+
+![](https://dive.sc.gov.br/images/doencas%20e%20agravos/Doen%C3%A7as%20Definitivas/Banners-SRAG-736x378px.png)
+___ 
 ## O que é SRAG?
 
 A SRAG é uma doença respiratória causada pelo coronavírus. Os sintomas mais comuns da SRAG incluem febre, tosse seca, fadiga, dor de cabeça e perda do olfato e paladar. A doença pode ser leve em alguns casos, mas também pode ser grave e levar à hospitalização e, em alguns casos, à morte.
